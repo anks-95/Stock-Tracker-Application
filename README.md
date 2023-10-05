@@ -7,6 +7,6 @@ This is a stock tracker & social media application, built with Ruby on Rails, wh
 - Ruby on Rails
 - HTML & CSS
 - Javascript
-- iexcloud API
+- iexcloud API<br>
 -hi
 
